@@ -1,9 +1,10 @@
-### olá
+### Olá me chamo emanuel 🤙,estou cursando Análise e desenvolvimento de sistemas, estou em transição de carreira 💪 , buscando a primeira oportunidade na área de desenvolvedor. Venho fazendo Bootcamp para praticar 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enascentedev&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enascentedev)](https://github.com/enascentedev/github-readme-stats)
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enascentedev)](https://github.com/enascentedev/github-readme-dark)
 
-Tecnologias que eu uso:
+### Tecnologias que eu uso:
 ##
 ![willianrod's wakatime stats](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![willianrod's wakatime stats](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
