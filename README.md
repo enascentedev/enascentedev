@@ -1,6 +1,6 @@
 ### olá
 ##
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enascentedev&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enascentedev)](https://github.com/enascentedev/github-readme-stats)
 
 Tecnologias que eu uso:
