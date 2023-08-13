@@ -1,6 +1,6 @@
 ### Olá me chamo emanuel 🤙,estou cursando Análise e desenvolvimento de sistemas, estou em transição de carreira 💪 , buscando a primeira oportunidade na área de desenvolvedor. Venho fazendo Bootcamp para praticar 
 ##
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=enascentedev&theme=dark)](https://git.io/streak-stats)
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enascentedev)](https://github.com/enascentedev/github-readme-dark)
 
