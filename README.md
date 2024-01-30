@@ -26,5 +26,5 @@
 ![Gira](https://img.shields.io/badge/Gira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongoose&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-48BB78?style=for-the-badge&logo=pinia&logoColor=white)
+
 
