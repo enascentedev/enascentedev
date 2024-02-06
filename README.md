@@ -1,4 +1,4 @@
-### Olá me chamo emanuel 🤙,estou cursando Análise e desenvolvimento de sistemas, estou em transição de carreira 💪 , buscando a primeira oportunidade na área de desenvolvedor. Venho fazendo Bootcamp para praticar 
+### Olá me chamo emanuel 🤙,estou cursando Análise e desenvolvimento de sistemas, atualmente sou Desenvolvedor Júnior 💪 , venho me enpenhando bastante nos meus estudos. Criando projetos pessoais para praticar 
 ##
 [![GitHub Streak](https://streak-stats.demolab.com/?user=enascentedev&theme=dark)](https://git.io/streak-stats)
 ##
