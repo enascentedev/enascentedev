@@ -11,7 +11,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas e atualmente sou Desenvolv
   <img src="https://streak-stats.demolab.com/?user=enascentedev&theme=dark" alt="GitHub Streak" width="49%" height="200px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enascentedev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Langs" width="49%" height="200px" />
 </div>
-<div align="center" width="1000px">
+<div align="center" width="800px">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=enascentedev&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" alt="Ashutosh's github activity graph"/>
   </a>
