@@ -2,13 +2,11 @@
 
 Estou cursando Análise e Desenvolvimento de Sistemas e atualmente sou Desenvolvedor Júnior 💪. Venho me dedicando bastante aos meus estudos e criando projetos pessoais para praticar.
 
+![Alt Text](https://media1.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif)
 
-![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJ0cGNlNHByYm8xa3psNnpwZDcxbXhzbnVibWRnejJhY3hvcnpoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif)
-
-
-<div align="center" style="display:flex; justify-content:space-between; style="height="50%" >
-  <img src="https://streak-stats.demolab.com/?user=enascentedev&theme=dark" alt="GitHub Streak" width="49% height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enascentedev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" width="49%" height="170px" alt="Top Langs"  />
+<div align="center" style="display:flex; justify-content:space-between;">
+  <img src="https://streak-stats.demolab.com/?user=enascentedev&theme=dark" alt="GitHub Streak" width="49%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enascentedev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Langs" width="49%" height="200px" />
 </div>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=enascentedev&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" alt="Ashutosh's github activity graph"/>
@@ -34,4 +32,3 @@ Estou cursando Análise e Desenvolvimento de Sistemas e atualmente sou Desenvolv
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongoose&logoColor=white)
-
