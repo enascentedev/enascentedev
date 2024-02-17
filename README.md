@@ -3,17 +3,17 @@
 
 Estou cursando Análise e Desenvolvimento de Sistemas e atualmente sou Desenvolvedor Júnior 💪. Venho me dedicando bastante aos meus estudos e criando projetos pessoais para praticar.
 
-
-<div align="center">  
- ![Motivational Quote](https://crmpiperun.com/wp-content/uploads/2019/02/frases-motivacionais-90-Os-unicos-limites-das-pessoas-sao-o-tamanho-de-suas-ideias-e-o-grau-de-sua-dedicacao-e1697485251423.png)]
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=enascentedev&theme=dark)](https://git.io/streak-stats)
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enascentedev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<div align="center">
+  <img src="https://crmpiperun.com/wp-content/uploads/2019/02/frases-motivacionais-90-Os-unicos-limites-das-pessoas-sao-o-tamanho-de-suas-ideias-e-o-grau-de-sua-dedicacao-e1697485251423.png" alt="Motivational Quote"/>
+  <a href="https://git.io/streak-stats">
+    <img width="48%" src="https://streak-stats.demolab.com/?user=enascentedev&theme=dark" />
+  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enascentedev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enascentedev&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enascentedev&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" alt="Ashutosh's github activity graph"/>
+</a>
 
 ### Tecnologias que eu uso:
 
@@ -35,4 +35,4 @@ Estou cursando Análise e Desenvolvimento de Sistemas e atualmente sou Desenvolv
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongoose&logoColor=white)
-+++
+
