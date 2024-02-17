@@ -2,7 +2,7 @@
 
 Estou cursando Análise e Desenvolvimento de Sistemas e atualmente sou Desenvolvedor Júnior 💪. Venho me dedicando bastante aos meus estudos e criando projetos pessoais para praticar.
 
-![Alt Text]([URL_DO_SEU_GIF](https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG))
+![Alt Text]([(https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG)](https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG/fullscreen)])
 
 <div align="center" style="display:flex; justify-content:space-between; style="height="50%" >
   <img src="https://streak-stats.demolab.com/?user=enascentedev&theme=dark" alt="GitHub Streak" width="49% height="200px" />
