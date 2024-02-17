@@ -13,7 +13,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas e atualmente sou Desenvolv
 </div>
 <div align="center" >
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph? width="800px" username=enascentedevbg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" alt="Ashutosh's github activity graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph? width="800px" username=enascentedev&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" alt="Ashutosh's github activity graph"/>
   </a>
 </div>
 
