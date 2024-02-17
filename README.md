@@ -3,14 +3,14 @@
 
 Estou cursando Análise e Desenvolvimento de Sistemas e atualmente sou Desenvolvedor Júnior 💪. Venho me dedicando bastante aos meus estudos e criando projetos pessoais para praticar.
 
-<div align="center">
+<div align="center" style="display:flex; justify-content:center; align-items:center;">
   <img src="https://crmpiperun.com/wp-content/uploads/2019/02/frases-motivacionais-90-Os-unicos-limites-das-pessoas-sao-o-tamanho-de-suas-ideias-e-o-grau-de-sua-dedicacao-e1697485251423.png" alt="Motivational Quote" width="50%"/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=enascentedev&theme=dark" width="25%" />
+  <a href="https://git.io/streak-stats" style="width:25%;">
+    <img src="https://streak-stats.demolab.com/?user=enascentedev&theme=dark" alt="GitHub Streak" style="width:100%;"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enascentedev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" width="25%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enascentedev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Langs" width="25%" />
 </div>
-+++
+
 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
