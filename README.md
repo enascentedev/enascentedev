@@ -12,6 +12,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas e atualmente sou Desenvolv
 [![GitHub Streak](https://streak-stats.demolab.com/?user=enascentedev&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enascentedev)](https://github.com/enascentedev/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enascentedev&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Tecnologias que eu uso:
 
