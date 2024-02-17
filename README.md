@@ -1,9 +1,8 @@
-+++markdown
 ### Olá, me chamo Emanuel 🤙
 
 Estou cursando Análise e Desenvolvimento de Sistemas e atualmente sou Desenvolvedor Júnior 💪. Venho me dedicando bastante aos meus estudos e criando projetos pessoais para praticar.
 
-<img src="https://crmpiperun.com/wp-content/uploads/2019/02/frases-motivacionais-90-Os-unicos-limites-das-pessoas-sao-o-tamanho-de-suas-ideias-e-o-grau-de-sua-dedicacao-e1697485251423.png" alt="Motivational Quote" width="50%" />
+[Alt Text]([URL_DO_SEU_GIF](https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG))
 
 <div align="center" style="display:flex; justify-content:space-between; style="height="50%" >
   <img src="https://streak-stats.demolab.com/?user=enascentedev&theme=dark" alt="GitHub Streak" width="49% height="200px" />
