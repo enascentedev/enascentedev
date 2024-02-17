@@ -4,6 +4,10 @@
 Estou cursando Análise e Desenvolvimento de Sistemas e atualmente sou Desenvolvedor Júnior 💪. Venho me dedicando bastante aos meus estudos e criando projetos pessoais para praticar.
 
 ![Motivational Quote](https://crmpiperun.com/wp-content/uploads/2019/02/frases-motivacionais-90-Os-unicos-limites-das-pessoas-sao-o-tamanho-de-suas-ideias-e-o-grau-de-sua-dedicacao-e1697485251423.png)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=enascentedev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="enascentedev github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enascentedev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=enascentedev&theme=dark)](https://git.io/streak-stats)
 
