@@ -2,7 +2,7 @@
 
 Estou cursando Análise e Desenvolvimento de Sistemas e atualmente sou Desenvolvedor Júnior 💪. Venho me dedicando bastante aos meus estudos e criando projetos pessoais para praticar.
 
-![Alt Text](https://media1.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif)
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJ0cGNlNHByYm8xa3psNnpwZDcxbXhzbnVibWRnejJhY3hvcnpoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif))
 
 <div align="center" style="display:flex; justify-content:space-between;">
   <img src="https://streak-stats.demolab.com/?user=enascentedev&theme=dark" alt="GitHub Streak" width="49%" height="200px" />
