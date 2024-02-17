@@ -2,7 +2,7 @@
 
 Estou cursando Análise e Desenvolvimento de Sistemas e atualmente sou Desenvolvedor Júnior 💪. Venho me dedicando bastante aos meus estudos e criando projetos pessoais para praticar.
 
-![Alt Text](https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif)
+![Software Development](https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif)
 
 <div align="center" style="display:flex; justify-content:space-between;">
   <img src="https://streak-stats.demolab.com/?user=enascentedev&theme=dark" alt="GitHub Streak" width="49%" height="200px" />
