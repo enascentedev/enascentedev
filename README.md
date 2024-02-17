@@ -4,12 +4,14 @@
 Estou cursando Análise e Desenvolvimento de Sistemas e atualmente sou Desenvolvedor Júnior 💪. Venho me dedicando bastante aos meus estudos e criando projetos pessoais para praticar.
 
 <div align="center">
-  <img src="https://crmpiperun.com/wp-content/uploads/2019/02/frases-motivacionais-90-Os-unicos-limites-das-pessoas-sao-o-tamanho-de-suas-ideias-e-o-grau-de-sua-dedicacao-e1697485251423.png" alt="Motivational Quote"/>
+  <img src="https://crmpiperun.com/wp-content/uploads/2019/02/frases-motivacionais-90-Os-unicos-limites-das-pessoas-sao-o-tamanho-de-suas-ideias-e-o-grau-de-sua-dedicacao-e1697485251423.png" alt="Motivational Quote" width="50%"/>
   <a href="https://git.io/streak-stats">
-    <img width="48%" src="https://streak-stats.demolab.com/?user=enascentedev&theme=dark" />
+    <img src="https://streak-stats.demolab.com/?user=enascentedev&theme=dark" width="25%" />
   </a>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enascentedev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enascentedev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" width="25%" />
 </div>
++++
+
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=enascentedev&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" alt="Ashutosh's github activity graph"/>
