@@ -1,6 +1,6 @@
 ### Olá, me chamo Emanuel 🤙
 
-Estou cursando Análise e Desenvolvimento de Sistemas e atualmente sou Desenvolvedor Júnior 💪. Venho me dedicando bastante aos meus estudos e criando projetos pessoais para praticar.
+Sou formado Análise e Desenvolvimento de Sistemas e atualmente sou Desenvolvedor Júnior 💪. Venho me dedicando bastante aos meus estudos e criando projetos pessoais para praticar.
 
 <div align="center">
   <img src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif" alt="Software Development"/>
